@@ -1,0 +1,30 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+  width="64"
+  height="64"
+>
+  <!-- Background -->
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="#2563EB"/>
+
+  <!-- Newspaper lines -->
+  <rect x="16" y="20" width="32" height="4" rx="2" fill="white"/>
+  <rect x="16" y="28" width="24" height="4" rx="2" fill="white"/>
+  <rect x="16" y="36" width="18" height="4" rx="2" fill="white"/>
+
+  <!-- Signal waves -->
+  <path
+    d="M38 14 C44 10 52 10 58 14"
+    stroke="#F97316"
+    stroke-width="3"
+    fill="none"
+    stroke-linecap="round"
+  />
+  <path
+    d="M40 18 C45 15 51 15 56 18"
+    stroke="#F97316"
+    stroke-width="3"
+    fill="none"
+    stroke-linecap="round"
+  />
+</svg>
